@@ -53,7 +53,7 @@ combined inventory and backlog balance
 | --- | ---: | ---: | ---: |
 | Base plan | $9,307,300 | $5,746,200 | — |
 | (a) Hiring and layoffs allowed | $9,215,325 | $5,838,175 | +$91,975 |
-| (b) Holding cost raised to $40 | $9,495,250 | $5,558,250 | −$187,950 |
+| (b) High holding cost | $9,495,250 | $5,558,250 | −$187,950 |
 | (c) March promotion | $9,435,380 | $5,665,320 | −$80,880 |
 | (d) September promotion | $9,470,750 | $5,645,400 | −$100,800 |
 
