@@ -101,8 +101,8 @@ open-source solver. The formulations in the markdown cells are solver-agnostic.
 ## Running the notebooks
 
 ```bash
-git clone https://github.com/JayeshYevale/production-planning-optimization.git
-cd production-planning-optimization
+git clone https://github.com/JayeshYevale/Production-Planning-Optimization.git
+cd Production-Planning-Optimization
 pip install -r requirements.txt
 jupyter lab
 ```
@@ -115,7 +115,7 @@ the data beside the model is clearer than loading it from separate files.
 ## Repository layout
 
 ```
-production-planning-optimization/
+Production-Planning-Optimization/
 ├── 01_production_planning_perishable_inventory.ipynb
 ├── 02_aggregate_production_planning.ipynb
 ├── figures/
