@@ -1,0 +1,15 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+
+# Charts (notebook 2)
+matplotlib>=3.7
+
+# Linear and mixed-integer programming
+# The pip build ships a size-limited licence (2000 variables / 2000 constraints),
+# which is well beyond what these models need.
+gurobipy>=11.0
+
+# Notebook environment
+jupyterlab>=4.0
+ipykernel>=6.0
